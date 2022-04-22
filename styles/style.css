@@ -21,8 +21,6 @@ header {
 }
 
 header img {
-  width: 10em;
-  height: 10em;
   border-radius: 50%;
   border: 2px solid var(--purple);
   padding: .2em;
@@ -77,8 +75,4 @@ footer ul {
 footer ul > li {
   display: inline;
   margin-left: 1rem;
-}
-
-footer ul > li > a > img {
-  width: 1.5rem;
 }
