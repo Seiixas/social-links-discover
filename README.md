@@ -4,18 +4,16 @@
 
 ### 🚀 Sobre
 
-O Social Links é um desafio proposto na trilha Discover da Rocketseat onde criamos uma interface que lista vários links da biografia de algum perfil do Instagram.
+O Social Links é um desafio proposto na trilha Discover da Rocketseat onde criamos uma interface que lista vários links da biografia de algum perfil do Instagram. Pensado bastante em responsividade em telas dos dispositivos.
+
+### 🖼️ Projeto
+
+![Desktop version](./.github/images/desktop.png)
+![Mobile version](./.github/images/mobile.png)
 
 ### 💡 Lighthouse
 
 ![Lighthouse performance status](./.github/images/lighthouse.png)
-
-### 🖼️ Projeto
-
-Projeto rodando Desktop
-![](./.github/images/desktop.png)
-
-![](./.github/images/mobile.png)
 
 ### 🏃‍♂️ Como rodar o projeto
 
@@ -26,4 +24,4 @@ git clone https://github.com/Seiixas/social-links-discover
 cd social-links-discover
 ```
 
-Ou acesse o site on-line pelo Github Pages [clicando aqui](https://seiixas.github.io/social-links-discover.).
+Ou acesse o site on-line pelo Github Pages [clicando aqui](https://seiixas.github.io/social-links-discover).
